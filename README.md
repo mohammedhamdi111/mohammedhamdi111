@@ -21,7 +21,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohammed-hamdi-699993230/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hamdi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/MohammedHamdi" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Hamdy5546-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/Mohamed Hamdy5546" target="_self"><img src="https://img.shields.io/badge/-Mohamed%20Hamdy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
